@@ -1,0 +1,20 @@
+EX1
+#|name
+1|Francisco
+2|Joao
+
+EX2
+#|name
+1|Joaquim
+2|Ze
+
+EX3
+#|name
+1|Carregador 33W USB-C
+
+EX 4
+#|value
+1|2299.99
+2|349.95
+3|199.95
+4|39.99
